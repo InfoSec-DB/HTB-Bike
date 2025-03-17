@@ -64,7 +64,7 @@ python3 bike_exploit.py
 [12:00:02] [INFO] Checking user privileges...
 [12:00:02] [SUCCESS] Running as: root
 [12:00:03] [INFO] Fetching flag...
-[12:00:04] [SUCCESS] Flag: 6b258d726d287462d60c103d0142a81c
+[12:00:04] [SUCCESS] Flag: flag goes here
 ```
 
 ---
